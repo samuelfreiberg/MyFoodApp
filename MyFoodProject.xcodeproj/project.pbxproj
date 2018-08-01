@@ -12,6 +12,7 @@
 		C89E19AA21126A6D0075CD1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C89E19A821126A6D0075CD1B /* Main.storyboard */; };
 		C89E19AC21126A6D0075CD1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C89E19AB21126A6D0075CD1B /* Assets.xcassets */; };
 		C89E19AF21126A6D0075CD1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C89E19AD21126A6D0075CD1B /* LaunchScreen.storyboard */; };
+		C89E19B721126C140075CD1B /* JuliusSansOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C89E19B621126C140075CD1B /* JuliusSansOne-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C89E19AB21126A6D0075CD1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C89E19AE21126A6D0075CD1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C89E19B021126A6D0075CD1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C89E19B621126C140075CD1B /* JuliusSansOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "JuliusSansOne-Regular.ttf"; path = "../../../../Downloads/julius-sans-one/JuliusSansOne-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C89E19AB21126A6D0075CD1B /* Assets.xcassets */,
 				C89E19AD21126A6D0075CD1B /* LaunchScreen.storyboard */,
 				C89E19B021126A6D0075CD1B /* Info.plist */,
+				C89E19B621126C140075CD1B /* JuliusSansOne-Regular.ttf */,
 			);
 			path = MyFoodProject;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 				C89E19AF21126A6D0075CD1B /* LaunchScreen.storyboard in Resources */,
 				C89E19AC21126A6D0075CD1B /* Assets.xcassets in Resources */,
 				C89E19AA21126A6D0075CD1B /* Main.storyboard in Resources */,
+				C89E19B721126C140075CD1B /* JuliusSansOne-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
